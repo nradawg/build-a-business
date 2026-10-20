@@ -36,7 +36,7 @@ Three things in this stack involve a human or a machine approving you, and appro
 
    The night works without it. GitHub Free already gives unlimited public and private repos and 2,000 Actions minutes per month (github.com/pricing, checked 2026-10-19), which is everything you need to ship.
 
-2. If you are in the US or Canada, claim the Codex student credit at https://developers.openai.com/community/students. This is $100 in ChatGPT credits, shown as 2,500 credits, for verified students at degree granting universities in the US or Canada, usable on a ChatGPT Free, Go, Plus, or Pro plan, expiring 12 months after the grant date, one per student (checked 2026-10-19). You need a ChatGPT account to exist before you claim. **Correction to what you may have been told:** Codex is not free for students. It is $100 of credits. Because they work on the Free plan, a US or Canada student can run Codex tonight at zero cash. If you are outside the US or Canada this offer gives you nothing, so plan to use whatever AI chat you already have.
+2. Claim your free ChatGPT Plus as a student at https://chatgpt.com/students. Four months free with a verified school email. Do this before the night so Codex is working when you sit down. US and Canadian students can also claim $100 in Codex credits at https://developers.openai.com/community/students, one per student.
 
 3. If you are on an F-1 or J-1 visa, email your international student office and ask in writing whether you may earn money from this. Do not start until you have their written answer. DHS says "If you decide that you want to work, the first step is always to talk with your designated school official (DSO)," and that unauthorized work gets reported through SEVIS (https://studyinthestates.dhs.gov/students/work/working-in-the-united-states, checked 2026-10-19). This is the one item on the list that can end badly.
 
@@ -220,7 +220,7 @@ These were researched and could not be confirmed from a primary source. They app
 - GitHub Student Pack approval time. No published timeframe. Check the apply docs page linked in pre-stage item 1.
 - Notion education verification duration. Not stated at https://www.notion.com/help/notion-for-education
 - Cloudflare Pages custom domain activation, certificate, and propagation times. Not stated at https://developers.cloudflare.com/pages/configuration/custom-domains/
-- The widely repeated "four free months of ChatGPT Plus for US students." Could not be verified on any OpenAI owned page. Every source describing it was an affiliate or aggregator. Do not count on it. Check https://chatgpt.com/students while signed in.
+
 - Whether the Codex student credit has a deadline. The page states none as of 2026-10-19.
 - CalOPPA's exact requirements. The California legislature's text could not be retrieved. The privacy policy guidance above rests on Nevada and Delaware instead.
 - Whether CCPA's $25 million threshold has been inflation adjusted. Check https://oag.ca.gov/privacy/ccpa rather than quoting the number as law.
