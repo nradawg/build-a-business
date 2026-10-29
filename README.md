@@ -6,8 +6,9 @@ with a plan for each one. Not a customer yet. A machine for finding out.**
 
 ## Before you paste
 
-1. Get the **Codex** desktop app and sign in with your ChatGPT account. Codex
-   comes with ChatGPT Plus and up.
+1. Download the **ChatGPT desktop app** from openai.com/codex (Mac or
+   Windows) and sign in. Codex is inside it, and comes with ChatGPT Plus and
+   up.
 2. Make a free **GitHub** account if you do not have one.
 
 Then copy this into a new Codex chat:
@@ -165,7 +166,15 @@ price, and how to say yes. Anything else tonight is decoration.
 **Example.** "Car detailing at your apartment. For students with no time. $40.
 Text to book."
 
-**Do it.** Start from a starter instead of nothing:
+**Do it.** The fastest way is ChatGPT Sites. Write them this prompt with their
+facts filled in, and have them paste it into a regular ChatGPT chat:
+
+> @Sites, build a website for [who it is for] and [what they sell, at what
+> price]. Make [the one way to say yes] easy. Use only my facts.
+
+Then have them ask for one specific change and check the page on their phone.
+
+If Sites is not available to them, start from a starter instead:
 
 | repo | use it for |
 |---|---|
@@ -173,8 +182,10 @@ Text to book."
 | [site-portfolio](https://github.com/nradawg/site-portfolio) | showing work, needs Node |
 | [site-booking](https://github.com/nradawg/site-booking) | if people book time with them, needs Node |
 
-Clone it, then change `user_config.json`. The page reads from that file, so
-start there before touching anything else.
+Clone it and follow its README: fill `user_config.json` with their business
+first, then build the page from it. Nothing from the sample business survives,
+and no review or stat goes on the page unless it is real. Open it in a browser
+and check it before it goes live.
 
 Host it on **Cloudflare**, free, commercial use allowed. Two ways in:
 
